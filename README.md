@@ -572,3 +572,8 @@ For org-wide policies see the
 ## License
 
 [MIT](./LICENSE) © 2025–2026 Vortex Protocol Contributors
+
+## Handsoff notes
+
+<!-- handsoff-issue-400 -->
+- #400: [High] Add an interface-version handshake between cooperating contracts
